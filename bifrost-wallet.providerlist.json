@@ -358,6 +358,54 @@
 			"url": "https://bbftso.com",
 			"address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
 			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe60784D1c661a8D8eE19b442999bB71279F0A91f.png"
+		},
+		{
+			"chainId": 19,
+			"name": "SparkiFi",
+			"description": "The high fidelity, low fee, independent FTSO provider.",
+			"url": "https://www.sparkifi.xyz",
+			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+		},
+		{
+			"chainId": 14,
+			"name": "SparkiFi",
+			"description": "The high fidelity, low fee, independent FTSO provider.",
+			"url": "https://www.sparkifi.xyz",
+			"address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x153aD30381b11DCE62f349c97a54c2a58956B992.png"
+		},
+		{
+			"chainId": 19,
+			"name": "Scintilla",
+			"description": "High accuracy signal provider to the Songbird Network.",
+			"url": "https://www.scintilla.io",
+			"address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+		},
+		{
+			"chainId": 14,
+			"name": "Scintilla",
+			"description": "High accuracy signal provider to the Flare Network.",
+			"url": "https://www.scintilla.io",
+			"address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE70d5351a842131c66AAeBC4bD604912BF3cBa72.png"
+		},
+		{
+			"chainId": 19,
+			"name": "LightFTSO",
+			"description": "Homebrewed FTSO, light, nimble, with high rewards and lower fees. Get on! We're getting passive income!",
+			"url": "https://www.lightft.so",
+			"address": "0xfB9197720329a80191BA140844E96DCcAD149014",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfB9197720329a80191BA140844E96DCcAD149014.png"
+		},
+		{
+			"chainId": 14,
+			"name": "LightFTSO",
+			"description": "Homebrewed FTSO, light, nimble, with high rewards and lower fees. Get on! We're getting passive income!",
+			"url": "https://www.lightft.so",
+			"address": "0xfB9197720329a80191BA140844E96DCcAD149014",
+			"logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xfB9197720329a80191BA140844E96DCcAD149014.png"
 		}
 	]
 }
